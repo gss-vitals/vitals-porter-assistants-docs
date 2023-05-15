@@ -15,6 +15,7 @@
 
 ## 啟用巨集
 * 首先，如果你在 Excel 看到類似以下的警告畫面，請啟用 Excel  的巨集功能，因為 Porter小幫手需要使用巨集功能來分析及處理 Porter 所匯出的中介資料。
+
   ![macroAlert.png](/img/macroAlert.png)
   ![macroAlertPrompt.png](/img/macroAlertPrompt.png)
 
@@ -137,6 +138,8 @@
 5. 到**基本設定**工作表中，點選「**選取目錄**」，選擇待會要匯出中介資料的位置
 6. 切換到**知識文件**工作表，點選「**匯出**」按鈕
 7. 現在中介資料應該已經產生在剛剛第5步驟選擇的位置
+
+---
 
 ### 操作建議順序
 ![editDocumentSop1.png](/img/editDocumentSop1.png)
